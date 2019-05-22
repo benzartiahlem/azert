@@ -18,6 +18,7 @@ public class MyApp {
        System.out.println("voici un exemple simple de programme java");
              System.out.println("new project");
              System.out.println("testing");
+             System.out.println("test ok");
     }
     
 }
