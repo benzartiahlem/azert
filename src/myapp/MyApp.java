@@ -19,6 +19,8 @@ public class MyApp {
              System.out.println("new project");
              System.out.println("testing");
              System.out.println("Test 1");
+             System.out.println("Test Successful");
+             
              
     }
     
