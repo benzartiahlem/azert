@@ -20,6 +20,7 @@ public class MyApp {
              System.out.println("testing");
              System.out.println("Test 1");
                System.out.println("Test 1 : Successful");
+                System.out.println("Test 2 : Successful");
             
             
              
