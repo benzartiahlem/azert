@@ -17,12 +17,6 @@ public class MyApp {
     public static void main(String[] args) {
        System.out.println("voici un exemple simple de programme java");
              System.out.println("new project");
-             System.out.println("testing");
-             System.out.println("Test 1");
-               System.out.println("Test 1 : Successful");
-                System.out.println("Test 2 : Successful");
-                System.out.println("Test 3 : Successful");
-                System.out.println("Test 4 : Successful");
                 System.out.println("Testing");
                
                  
